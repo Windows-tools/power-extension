@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerExtension", "PowerExtension\PowerExtension.csproj", "{EB0B38C3-6EB7-4123-93A7-26A87BF2E495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0B38C3-6EB7-4123-93A7-26A87BF2E495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0B38C3-6EB7-4123-93A7-26A87BF2E495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0B38C3-6EB7-4123-93A7-26A87BF2E495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0B38C3-6EB7-4123-93A7-26A87BF2E495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33A4188-19FF-48D3-AD85-E98B10BB635D}
+	EndGlobalSection
+EndGlobal
