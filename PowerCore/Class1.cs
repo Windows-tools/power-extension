@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PowerExtension
+namespace PowerCore
 {
+
     public class Class1
     {
+
     }
+
+
 }
